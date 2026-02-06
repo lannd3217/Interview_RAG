@@ -36,7 +36,7 @@ Vector Store: FAISS (Fast Approximate Nearest Neighbor Search)
 
 
 
-## 8. Future Roadmap
+## 6. Future Roadmap
 Multimodal RAG: Support for technical diagrams and architecture charts within PDFs.
 
 Auto-Scraper: Integration with official Engineering Blog APIs (Meta, Netflix, Uber).
