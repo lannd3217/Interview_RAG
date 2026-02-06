@@ -34,19 +34,6 @@ Embeddings: sentence-transformers/all-MiniLM-L6-v2 (Local and Free)
 Vector Store: FAISS (Fast Approximate Nearest Neighbor Search)
 
 
-## 7. Getting Started
-Installation
-Bash
-pip install -U langchain-huggingface langchain-community pymupdf faiss-cpu sentence-transformers
-Ingestion & Querying
-Load: Place your PDFs in the docs/ folder.
-
-Index: Run the ingestion script to create your vector store.
-
-Ask:
-### Example Query
-query = "What does Meta look for in a System Design interview for MLE?"
-##### The assistant retrieves relevant snippets and generates an answer grounded in your PDFs.
 
 
 ## 8. Future Roadmap
