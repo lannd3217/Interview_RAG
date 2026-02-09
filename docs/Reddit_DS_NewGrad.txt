@@ -1,0 +1,1141 @@
+Skip to main content
+New Grad Data Scientist feeling overwhelmed and disillusioned at first job : r/datascience
+
+
+r/datascience
+Search in r/datascience
+Advertise on Reddit
+
+Open chat
+5
+Create
+Create post
+Open inbox
+1
+
+Expand user menu
+Skip to NavigationSkip to Right Sidebar
+
+Back
+r/datascience icon
+Go to datascience
+r/datascience
+•
+7mo ago
+insane_membrane13
+
+New Grad Data Scientist feeling overwhelmed and disillusioned at first job
+Discussion
+Hi all,
+
+I recently graduated with a degree in Data Science and just started my first job as a data scientist. The company is very focused on staying ahead/keeping up with the AI hype train and wants my team (which has no other data scientists except myself) to explore deploying AI agents for specific use cases.
+
+The issue is, my background, both academic and through internships, has been in more traditional machine learning (regression, classification, basic NLP, etc.), not agentic AI or LLM-based systems. The projects I’ve been briefed on, have nothing to do with my past experiences and are solely concerned with how we can infuse AI into our workflows and within our products. I’m feeling out of my depth and worried about the expectations being placed on me so early in my career. I was wondering if anyone had advice on how to quickly get up to speed with newer techniques like agentic AI, or how I should approach this situation overall. Any learning resources, mindset tips, or career advice would be greatly appreciated.
+
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+387
+
+Downvote
+
+102
+Go to comments
+
+
+Share
+Sort by:
+
+Best
+
+Search Comments
+Expand comment search
+Comments Section
+MycoSteveO
+•
+7mo ago
+I’ve read from a recruiter that you should take a job where you’re 60% qualified. If you are 100% you will be bored and learn nothing.
+
+I don’t know your situation, but a lot of times people get in their head that the job expects perfection when doing 50% would suffice. The problem we run into is “we know what’s possible” so we always try to meet that thinking everyone else knows that, but they don’t. In other words, give it time and take the opportunity to get paid to learn something new instead of having to pay to take a course on it.
+
+
+
+Upvote
+163
+
+Downvote
+
+Award
+
+Share
+
+_bez_os
+•
+7mo ago
+In today's world you won't cut it in the market unless you are already 100% qualified. Nobody wants to teach anyone
+
+
+
+Upvote
+58
+
+Downvote
+
+Award
+
+Share
+
+No_Length_856
+•
+7mo ago
+Yeah, I wasn't getting any opportunities until I realized I was eligible for government subsidized training. Now corps are interested. Go figure. Nobody wants to train anymore.
+
+
+
+Upvote
+16
+
+Downvote
+
+Award
+
+Share
+
+u/disquieter avatar
+disquieter
+•
+7mo ago
+What kind of training? I’m trying to make a transition.
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+
+4 more replies
+
+1 more reply
+u/YEEEEEEHAAW avatar
+YEEEEEEHAAW
+•
+7mo ago
+You aren't going to hit every single bullet point ask for any specific job because if you do you would be getting a better job that pays more. You should also be selling your ability to learn in order to accomplish your goal as well as your existing skills. That is basically the only reason a PhD can be a helpful indicator for most DS jobs, it proves you can learn something esoteric independently.
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+Expensive-Finger8437
+•
+7mo ago
+Companies are posting entry level jobs, but didn't observed they are getting filled. Even if many candidates are qualified.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+Ocraru
+•
+6mo ago
+People are willing to teach and train if you can make personal connections. Try to find local data communities in your area and make friends!
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+No_Enthusiasm_1377
+•
+6mo ago
+👍
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/YEEEEEEHAAW avatar
+YEEEEEEHAAW
+•
+7mo ago
+Lol a company hiring a new grad as the only data scientist and then going "we need agentic AI do some agentic AI" is so funny. God I want this shit to burst so bad even if it's bad for my career.
+
+
+
+Upvote
+530
+
+Downvote
+
+Award
+
+Share
+
+mtmttuan
+•
+7mo ago
+If the 'AI bubble' ever bursts, it would definitely help in filtering out job postings for 'AI Engineer' or 'Data Scientist' that are essentially just software engineering roles with a thin veneer of LLM integration. Huge win if you ask me.
+
+
+
+Upvote
+123
+
+Downvote
+
+Award
+
+Share
+
+
+[deleted]
+•
+7mo ago
+u/deadmancaulking avatar
+deadmancaulking
+•
+7mo ago
+I graduated in 2024 and got told to build agentic AI as the only dev on the team as my first data science role. Stayed long enough to build a minimal PoC (easy to impress non-technical people that think they’re technical) but after pleading for some help to be hired for my entire tenure I just left to a competitor
+
+
+Upvote
+53
+
+Downvote
+
+Award
+
+Share
+
+throwaway_67876
+•
+7mo ago
+I don’t see how the AI bubble bursting would be bad for anyone’s careers going forward lol. People are holding off on hiring hoping AI will just replace it, but that feels leaps and bounds ahead right now.
+
+
+
+Upvote
+28
+
+Downvote
+
+Award
+
+Share
+
+u/QianLu avatar
+QianLu
+•
+7mo ago
+I believe their thinking is that a lot of DS/DE jobs have been created with the goal of building AI agents/systems for their company, and when it becomes clear that this is all snake oil those roles go away.
+
+We then end up with a lot more DS/DE people than roles, and the hope is that the people who are just here for LLM hype go away.
+
+
+
+Upvote
+13
+
+Downvote
+
+Award
+
+Share
+
+u/YEEEEEEHAAW avatar
+YEEEEEEHAAW
+•
+7mo ago
+There has been a huge boost in people with degrees in DS specifically, I don't think the people are gonna go away. Getting a job will just be a lot harder and salaries will be lower outside of the really top end people at the big N.
+
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+u/QianLu avatar
+QianLu
+•
+7mo ago
+I think that salaries will still be high (relative to the median US income). I make good money now, I expect to still make good money in 5 years.
+
+Despite how much some people/subs are obsessed with FANNG/MANGA/whatever companies you want to include in that tier, they are a crazy minority. Most people were never going to get those salaries right now, in the past, or in the future.
+
+I guess the real factor is competition for said roles. It will probably go up, but a lot of people just fundamentally aren't qualfied anyway. I have to explain at least twice a day on these subs that data science fundamentally isn't an entry level job (often to people in/graduating from these DS programs that popped up overnight lol).
+
+
+Upvote
+5
+
+Downvote
+
+Award
+
+Share
+
+u/QianLu avatar
+QianLu
+•
+7mo ago
+Ignoring how much this company has set OP up to fail, I absolutely agree. You know a company like this probably keeps all their "data" in spreadsheets.
+
+I figure if you're providing actual value you have a much better chance of surviving the culling than people who only know how to call the chatGPT API.
+
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+u/YEEEEEEHAAW avatar
+YEEEEEEHAAW
+•
+7mo ago
+Providing real value as a "data scientist" that justifies your higher cost than an analyst generally requires significant capital investment by your employer. Also someone noticing your value depends on there being someone capable of understanding the value add and who cares about actual value more than adding another bullet point to a slide to impress the board or investors. Unfortunately the latter is an increasingly common person these days because it's an easier way to advance your career.
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+u/Aristoteles1988 avatar
+Aristoteles1988
+•
+7mo ago
+To be honest
+
+I’d schedule a “discovery” meeting or smth that sounds super vague
+
+And drill into EXACTLY what they want
+
+Do they just want to use the buzz words
+
+Or do they ACTUALLY want to build smth of value
+
+
+
+Upvote
+65
+
+Downvote
+
+Award
+
+Share
+
+cim9x
+•
+7mo ago
+Yeah great idea. Like most software development you need to gather requirements and acceptance criteria so you know exactly what they want. This may take multiple rounds because you may have additional questions as you learn more. You may need to set expectations for them to realize that it's a process with many layers of building.
+
+
+Upvote
+12
+
+Downvote
+
+Award
+
+Share
+
+u/TaiChuanDoAddct avatar
+TaiChuanDoAddct
+•
+7mo ago
+Fake it till you make it bud. Listen carefully, learn a lot, and do your best. Before you know it you'll be able to walk the walk.
+
+
+
+Upvote
+218
+
+Downvote
+
+Award
+
+Share
+
+u/Expensive_Issue_3767 avatar
+Expensive_Issue_3767
+•
+7mo ago
+He's the only data scientist there, he has no one to learn from.
+
+
+
+Upvote
+22
+
+Downvote
+
+Award
+
+Share
+
+Emotional_Dig_2378
+•
+7mo ago
+The internet has many resources. It’s not that hard to learn tbh
+
+
+Upvote
+12
+
+Downvote
+
+Award
+
+Share
+
+citoboolin
+•
+7mo ago
+its just an API call buddy. you got this. long term your company’s strategy is dumb af but thats a conversation for another day
+
+
+Upvote
+39
+
+Downvote
+
+Award
+
+Share
+
+u/Illustrious-Pie-5404 avatar
+Illustrious-Pie-5404
+•
+7mo ago
+I wouldn't worry about feeling out of your depth, as long as projects are relatively reasonably-scoped. With agentic AI, I think the big thing is trying to push back against the hammer-looking-for-a-nail mentality and to focus projects on those that are truly highest impact/value-add with agentic AI, and also reasonably feasible with the data you have.
+
+Re: resources, here are a few articles/newsletters that I thought were really interesting on the current state of agentic AI workflows. Once you find a few good Mediums, substacks, etc., it's relatively easy to keep your finger on the pulse.
+
+Context Engineering primer
+
+RAG in 2025
+
+TLDR AI (TLDR Data is also really good for more general data science/engineering articles)
+
+
+Upvote
+16
+
+Downvote
+
+Award
+
+Share
+
+NeffAddict
+•
+7mo ago
+This is the problem for most of us rn.
+
+The only constant in technology is the need to upskill on continually changing tools / methods.
+
+
+Upvote
+53
+
+Downvote
+
+Award
+
+Share
+
+Farm-Secret
+•
+7mo ago
+Don't rely on past knowledge, build and rely on your ability to learn!
+
+
+Upvote
+11
+
+Downvote
+
+Award
+
+Share
+
+furry_4_legged
+•
+7mo ago
+It's actually a good thing that you are working on things that haven't been solved yet. 
+
+You are ahead of the crowd doing same things that they studied.  Give your best 
+
+
+
+Upvote
+35
+
+Downvote
+
+Award
+
+Share
+
+u/amufhad avatar
+amufhad
+•
+6mo ago
+Totally. Very good experience that you also get paid to learn new tools while others don’t haha
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+u/Substantial_Lab1438 avatar
+Substantial_Lab1438
+•
+7mo ago
+At least you have a job
+
+A lot of us are out here just slowly spiraling into an existential crisis as our savings dwindles to dust wondering why we got this degree in the first place
+
+
+
+Upvote
+39
+
+Downvote
+
+Award
+
+Share
+
+u/Express_Accident2329 avatar
+Express_Accident2329
+•
+7mo ago
+Haha, yeah.
+
+I don't want to jinx their experience but my only data science job so far involved being hired to do computer vision, and then the entire job was basically about trying to get me to build their entire data engineering pipeline from scratch and getting calls at all hours from 6 different time zones to change a color on a graph.
+
+At this point I think I forget almost everything I knew about computer vision.
+
+
+Upvote
+17
+
+Downvote
+
+Award
+
+Share
+
+u/Mimogger avatar
+Mimogger
+•
+7mo ago
+One thing to realize is everything is just a tool. You don't necessarily need machine learning to solve a problem for the company or do a project. Most of the work is data prep and analysis, and then the ML / whatever just follows after. Figure out the problems with the workflows / products and what can be optimized first and then apply whatever solution works best. If it's LLM, great! If not, and you know how to solve it, also great! If not and you don't know how to solve it, great time to learn what's possible!
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+CableInevitable6840
+•
+7mo ago
+•
+Brand Affiliate
+Try this: https://github.com/ProjectProRepo/Agentic-AI/blob/main/README.md It is not as difficult as you may think.
+
+
+Upvote
+7
+
+Downvote
+
+Award
+
+Share
+
+-Cicada7-
+•
+7mo ago
+Tech evolves constantly, so learning on the job is just part of it. As a new grad, no one expects you to know everything.
+
+I usually start with YouTube to get the basics, then dive into the task and learn as I go. It can feel overwhelming at first, but starting anywhere is better than overthinking. Things will start to click along the way.
+
+Good luck!
+
+
+Upvote
+13
+
+Downvote
+
+Award
+
+Share
+
+DieselZRebel
+•
+7mo ago
+That is all normal. Happens to most people as they enter this field, so welcome to the club. The two skills they don't teach in DS school programs are 1-Adabtability/flexibility and 2-Deliverabilty (i.e. being able to deliver solutions regardless of the challenges), with emphasis on software engineering, yet those are the main skill industry looks for.
+
+Do not worry, you should be able to learn and practice, there is a vast amount of learning material out there, and allocate the time from work for it.
+
+
+Upvote
+6
+
+Downvote
+
+Award
+
+Share
+
+Interesting_Cry_3797
+•
+7mo ago
+Use chatgpt
+
+
+u/Outrageous-Glove9502 avatar
+Outrageous-Glove9502
+•
+7mo ago
+use chatgpt en build a light chatgpt
+
+
+Interesting_Cry_3797
+•
+7mo ago
+Eggsactly! 🍳
+
+u/Blitzboks avatar
+Blitzboks
+•
+7mo ago
+Seriously though OP, make sure your company is paying for you to have premium tier of whatever your preferred AI is. There seems to be a strong bias for Claude in the SWE world, but ime ChatGPT destroys it when it comes to my DS workflows. Claude will try to be like here is a cute list of the names all the directors that provided feedback in this excel report. Meanwhile o3 has already produced a table of the actual metrics for that feedback and what it says.
+
+It sucks not having a mentor and being the only DS, but at least the stand in of a SoTA AI at your right hand will save you from drowning in stack overflow and a painfully slow learning curve etc
+
+u/sekerk avatar
+sekerk
+•
+7mo ago
+The purpose of your degree is to give you tools and methods, and to set you up to be able yo learn the new and emerging techniques as they are foundations
+
+u/LeOmeletteDuFrommage avatar
+LeOmeletteDuFrommage
+•
+7mo ago
+Yeah literally nobody has experience using AI and LLMs right now. Welcome to the cutting edge.
+
+u/G-R-A-V-I-T-Y avatar
+G-R-A-V-I-T-Y
+•
+7mo ago
+Dude this sounds fun as hell! Most DS work is just AB testing, measurement, reporting etc.
+
+Have fun learning the awesome and empowering skill set of Agentic AI.
+
+
+u/JazzlikeGuava3932 avatar
+JazzlikeGuava3932
+•
+6mo ago
+Are you in DS? I am looking to go into it, but I am scared that it is super repetitive and that I will not learn much after 1-2 years. I'm considering doing DS in a consultancy to at least also get that business knowledge on the way.
+
+
+1 more reply
+u/EarbuxOfficial avatar
+EarbuxOfficial
+•
+6mo ago
+Use Copilot studio. You'll pick it up in a day, Watch youtube. If you're firm is Microsoft oriented, you can create agents for everybody and deploy them. Basically it creates a Chat in Teams and allows the user to chat with whatever data you link it to. Does really poorly with Excel sheets though. I think when people say they want AI they want LLM. Also Copilot wont do well with Excel sheets, that is another upgrade through Microsoft for each user to add to copilot.
+
+If you have a data science degree you probably just need to do some exploring and show them their options. If they are wanting Machine learning , you will have to build that yourself, which you already know how to do.
+
+u/dedicaat avatar
+dedicaat
+•
+7mo ago
+Say I trust you, and then I understand you were accurately informing me about your beliefs e.g. that you're feeling out of my depth for xyz reasons. It sounds like you want to change that and learn, so it sounds like I'll be (1) able to trust you, (2) want you to succeed at that goal since it's in my interest too, and (3) probably watching you get better.
+
+Let's say I trust you, and then I watch you mislead me and others because you've gotten it in your head that's a good strategy. I can't really say for sure why... nobody can withstand overbearing pressure - maybe someone is applying that to you and I'm not aware. Or maybe you are afraid of something, feel unsafe because other's & the culture normalized displaying that, ... or maybe you just got some life lessons to learn, and haven't yet internalized ideas like inn < road, the real lesson of dunning-kruger, or how normal these feelings you have really are must be. I would feel sympathetic, and try and do my best by you. I would wish it were otherwise a feel it's a bit unnecessary, and would just accept that the trial will harden you because I can't. I don't know what it's like to come out of school and into AI.
+
+It's either you're smart, know it, and understand others similarly are too, or it's the opposite and we're all dumb together. The path you took to get here is why you don't know the frontier modeling methods, you admit this, and we won't talk about circumstance, luck, or any number of things that led someone to be in a different circumstance. You can take that information and re-frame it if you'd like, to better understand your imperfect understanding of other's true expectations is very much a reflection of your own biases. So tell yourself it shouldn't be lol. Hard (impossible?) alone, but if you can introspectively do so, then I encourage you to accept you that's how it do be esp coming out of college so occasionally it may help to remind yourself of your own unreliability and not treat that as a negative aspect. Because... how could knowledge of that hurt you?
+
+I'm pretty confident I can run without much issue when I am aware one of my laces has come undone, but I'm a lot less confident someone else could do the same without realizing. In a very real way, it's easier to just care less about what other's say they want, and be self-interested focusing on what you want. In my experience, that mindset will reveal people are much more concerned with "losing" than they are "not winning" and act to overcompensate against that often to their detriment. You could help them with that bias simply by relaxing.
+
+Reading. I think that's the only good advice I can give you. And to make sure you don't brute force that reading. There is a lot of information out there, you should be reading something you find that you are able to notice a part you care about in it.
+
+edit: oh, and literature reviews. ya
+
+
+[deleted]
+•
+7mo ago
+When was the last time you had your medications reviewed?
+
+
+u/dedicaat avatar
+dedicaat
+•
+7mo ago
+Billy! Wow! I’d never have expected to see the giant shit that was constipating me while i wrote that last night 😂
+
+[deleted]
+•
+7mo ago
+We are all pioneers out here :)
+
+u/csingleton1993 avatar
+csingleton1993
+•
+7mo ago
+Are you asked to solve specific problems with AI, or to figure out how to solve problems with AI in general/incorporate it into daily workflows?
+
+The nice thing is most of the time the basic usage of AI is simple API calls, so even if you end up having to implement something it probably won't be too hard!
+
+u/Prudent-Buyer-5956 avatar
+Prudent-Buyer-5956
+•
+7mo ago
+Agentic AI is a very recent trend and very few people are truly an expert in those. Refer to crew ai, autogen, and langgraph. Read the documentation on their sites and read about how these are deployed for enterprise use-cases.
+
+u/varwave avatar
+varwave
+•
+7mo ago
+I’m in a similar position, but in an opposite direction. More custom CRUD apps with the ability to do machine learning or classical statistics on demand. Similar in the sense that it’s a lot of learning the needs of the business vs machine learning or data engineering with big data all the time. Also the only person with software development and statistics experience
+
+Is it basically creating wrappers for ChatGPT? Like loading it with strings that’d define your user and relevant data?
+
+I’m more curious and feel your pain than able to help 😔
+
+DanDon_02
+•
+7mo ago
+Bruh, at least you have a job. Quant field has been garbage the last couple of months, haven’t been able to find anything. Maybe that’s just me tho :(
+
+Inevitable_Bunch_248
+•
+7mo ago
+Do they have a choosen cloud provider?
+
+u/cccuriousmonkey avatar
+cccuriousmonkey
+•
+7mo ago
+What is good about it is that there a lot of courses about agentic ai (ex: hugging face), so you can learn fast. Probably good to pair up with good experienced dev to guide you.
+
+Also, buying Gemini pro for $20/month and using it a lot can ramp up knowledge very fast. The best is to pair up with someone for sure.
+
+drmattmcd
+•
+7mo ago
+The LangChain doc has some good example use cases. Also https://cookbook.openai.com/ the Open API cookbook.
+
+In terms of traditional ML/NLP some agentic applications can be thought of as unsupervised learning, eg (handwaves) RAG chat bot as creating an embedding vector from user input and using that to look up nearest response cluster.
+
+The key thing is understanding what the business requirement and success metrics are. After that the modelling process can look similar to traditional ML just with a different black box and having generated text as output rather than a class label, prediction etc.
+
+Lost_Philosophy_
+•
+7mo ago
+Welcome to the real world buddy.
+
+Build the plane while flying it!!
+
+NotarVermillion
+•
+7mo ago
+I’d be interested to hear if you have a job description and what it says!
+
+I’m on the other end, we are currently recruiting a software engineer that will be tasked with what you have been tasked to do and we’ve had a data scientist applicant who has a PhD . What’s going on?
+
+Dependent_Gur1387
+•
+7mo ago
+Totally get how overwhelming that feels, especially being the only data scientist! My 2cents—lean into quick research, try hands-on small projects with open-source LLM/agentic tools, and don’t hesitate to ask for clearer expectations.
+
+u/Hot_Aioli2025 avatar
+Hot_Aioli2025
+•
+7mo ago
+Udemy has some excellent courses with minimal pricing. I picked up llms few months back from the courses. I am an experienced data scientist with very less knowledge on llms, though had worked on nlp. I asked my manager to put me in a gen ai project and he did. It was challenging but fun. Try with ed donners gen ai course, then you can do prompt engineering, rags, agents. It's a flow. Once you get started, it will become easier but also your office needs to have the infrastructure to connect with them. Look into it as an opportunity. Don't stress. It's very interesting and not that difficult to pickup
+
+u/CanYouPleaseChill avatar
+CanYouPleaseChill
+•
+7mo ago
+If they wanted agentic AI knowledge, why didn’t they test for it in the interview?
+
+Just tell your boss you know nothing about agentic AI and that there are much more useful things to be working on that require knowledge you do have.
+
+u/spidermonkey12345 avatar
+spidermonkey12345
+•
+7mo ago
+On the bright side, a lot of the methodology are the same. Build testing and validation set, build model (in this case agent), see how well it does, then go back and improve the model till performance is good enough.
+
+Agents are pretty easy to put together with some of the newer python modules, like strands, too! The whole point of Model Context Protocol (MCP) is that you shouldn't have to do too much prompt engineering- but you'll probably need to do a bit, as well as all the standard pre and post processing infrastructure.
+
+u/DiligentSlice5151 avatar
+DiligentSlice5151
+•
+7mo ago
+Yes. But I need more information on what you needing help with. Can you identify some key tasks? 
+
+MorningDarkMountain
+•
+7mo ago
+At least you got a job by being a recent graduate: congrats!
+
+Do you like it? If yes, don't worry about it, because it's easy and you can do it even if you have mostly ML experience. It's not rocket science, ML is way more difficult than AI Engineering!
+
+If you don't like it: keep the current job (it's still relevant work experience) but apply for more ML Engineer / real Data Science opportunities. They are still in high demand, and they are not going to be nowhere. On the contrary, they will stay even after the AI bubble will inevitably explode
+
+But don't panic, because you're in a solid position already!
+
+u/OddEditor2467 avatar
+OddEditor2467
+•
+7mo ago
+Exactly why Data Scientist is not an entry role for a new grad.
+
+augigi
+•
+7mo ago
+My take. Make sure from the get go you are setting expectations straight. New grads are always prone to becoming yes-men out of fear of reprimand.
+
+What do they actually want, and when do they want it? When can you realistically deliver it? A big part of your job is translating business speak into actionable items that you can do. That's just a reality of working with non technical people. They tell you what they want, you make the case for the how, and try your best to not let them dictate your methods because at the end of the day, you're the expert right? That's why they hired you (in theory).
+
+You're the first data scientist? That means there's probably no data pipeline. they need to know that it will take some time for you to make the absolute bare minimum pipeline to speed up your work downstream.
+
+You don't know how agentic AI is used in the field? Make the case to spend some time learning and deploying.
+
+Always overestimate your timelines. ALWAYS. Even if you think it will take 2 weeks, you say 3 weeks, because there's always meetings, fires to put out, shit happens. It's better to under promise and over deliver.
+
+Clearing these things up will make your job easier and reduce the stress you're under. Don't be afraid to push back. You have leverage.
+
+Good luck! Look out for your own mental health as well. Take breaks, go for walks, make sure you get some sun and fresh air every day, exercise, drink water, eat well. You got this!
+
+LittleToke
+•
+7mo ago
+Hey I'm a senior DS who has been working a while now, and if it's any comfort, we're all being asked now to do agentic AI stuff, even though few of us have any experience with it. I still do more traditional ML work, but we're also all being asked to explore agentic AI worfklows just like you. So know you're not alone and we're all trying this for the first time.
+
+I think this is where you can wear your "scientist" hat of a data scientist more. Experiment with prompts, AI tools, and how to set up the infrastructure to get the kinds of outcomes you want. It's also a great way to get more coding under your belt if you don't usually do production-grade deployment. See this is a growth opportunity and also know that just as you feel you might not know what you're doing, I guarantee the stakeholders asking for this also don't really know what they want. lol
+
+u/dwan1545 avatar
+dwan1545
+•
+7mo ago
+Open up the openAI cookbook online and start learning. It’s not as hard or out of reach as you might be thinking.
+
+u/Sweet_Pattern4325 avatar
+Sweet_Pattern4325
+•
+7mo ago
+As someone who also has a traditional background in ML and is now learning agentic AI, I don't find it too bad. There is no real training of models anymore when working with LLMs and agents. You are essentially a dev person who is implementing agents.
+
+My prediction is that someone who knows the traditional ML stuff plus the agentic side will become super valuable.
+
+So, there are tons of tutorials online and you can use Gemini or other LLMs to teach you. Use this opportunity to gain this extra very valuable tool.
+
+u/Blitzboks avatar
+Blitzboks
+•
+7mo ago
+Like everyone else said, start learning! CIO asking for AI agents isn’t going away and is ubiquitous. None of us have a degree in agentic AI, I’m not worried about your background one bit. What I am worried about is your lack of excitement and initiative when realizing what you learned in school won’t actually be your job. Especially in tech based roles. It just keeps growing!! Apply what you know and read what you don’t, while delivering their asks. That’s the game.
+
+u/betweenbubbles avatar
+betweenbubbles
+•
+7mo ago
+Don't worry, if you're lucky, you'll still feel overwhelmed and disillusioned 20 years from now!
+
+u/dtr96 avatar
+dtr96
+•
+7mo ago
+Who do you report to? Are they technical?
+
+thedarkpath
+•
+7mo ago
+What you were hoping for is a data engineer/ statistician role instead you got a data analyse/BI role.
+
+u/conveniencesample avatar
+conveniencesample
+•
+7mo ago
+Agent stuff and LLMs are easier than traditional ML. It’s all just pulling context and calling APIs. You (generalizing here) don’t even need math, PyTorch, or inference pipelines anymore. Don’t worry, you’ll catch up
+
+spiritualquestions
+•
+6mo ago
+Allot of commenters seem to be saying not go along with this project. But building agents is relatively easy and fun in my opinion. Go and download n8n and start building a workflow. Its pretty cool what you can build in a day with agent workflow tools.
+
+u/Channel6890 avatar
+Channel6890
+•
+6mo ago
+Your LIFE as a DATA SCIENTIST! | A day in the life of a Data Scientist https://youtu.be/ltdDRgF_LnU
+
+[deleted]
+•
+6mo ago
+welcome to the world
+
+u/Eccentric755 avatar
+Eccentric755
+•
+6mo ago
+Suck it up and learn.
+
+Feeling-Carry6446
+•
+6mo ago
+Congrats on your graduation. I'll just say that everyone regardless of major feels overwhelmed and disillusioned at their first job. Maybe not professional athletes. But this is a perfectly normal response.
+
+Take a breath. Use your workplace's EAP to help you develop skills to handle the stress which is very new despite your spending 4 years preparing for it.Take time for some perspective. In four years you went from high school grad to college grad. You might take the next 4 years to really feel comfortable in your role.
+
+u/Otherwise-Look-3441 avatar
+Otherwise-Look-3441
+•
+6mo ago
+Great opportunity actually if you ask me. Easy to create impact right away by automating decisions. Plenty of room to innovate and explore. Don’t worry if it’s not classical ML and if you feel out of depth. It will be more fun to learn and see quick results
+
+[deleted]
+•
+6mo ago
+•
+Edited 6mo ago
+If it is any consolation, nearly any one else doing 'AI' knows just as much you, just writing prompts and pretending its doing more than it is.
+
+Potential_Pound2828
+•
+6mo ago
+Brother can you please guide me I am just entering into the field and confused too please
+
+
+JazzlikeGuava3932
+•
+6mo ago
+u/Willing_Brain6846 avatar
+Willing_Brain6846
+•
+6mo ago
+Yeah, ngl, that’s a little rough mainly because you’re the only one there. I might have a different take here, but assuming they’re paying at or above market rate, it’s kind of your job as a data scientist to continuously learn & adapt the latest solutions. 100k+ is a lot to pay for an individual (not far from what they pay for Jr. corporate council) and expectation are generally high.
+
+My advice is to start going through HuggingFace tutorials (like starting tonight) and ramp up your knowledge on transformer architectures. If you’re provided sometime of platform solution (databricks, etc.) start taking tutorials there! At the end of the day, take pride the fact you’re a data scientist & managed to break into the field! The first couple years (at least mine, probably works 50+ hrs a week, still do) are going to be rough as you ramp up, but with that same hard work you put in to get there, you’ll make it!
+
+u/Total_Laugh_1487 avatar
+Total_Laugh_1487
+•
+6mo ago
+Pay for the plus/pro subscription of Claude and ChatGPT; they will give you very very good advices that you can use and information about things you would like to deploy. They are basically our current Google search of this era. Or you can also try Gemini from Google; but I guarantee the previous AI tools will help you get started and educate you very well on everything. You can learn about prompting (that is, how to ask questions to these tools) from the following link as well which is for free:
+https://www.anthropic.com/learn
+
+Look at the LLM subreddits to learn more about LLMs and how you can use them in your work, on your own computer with no internet, like this subreddit:
+https://www.reddit.com/r/LocalLLaMA/
+
+And look at videos online on Youtube; they will educate you about LLM more, especially deploying local LLMs.
+Do not be afraid of the unknown, which is totally fine to some degree; you got this and you have it in you! Letting fear to take the hold of you will hinder you; use it as a driver to achieve!
+
+u/bruins90210 avatar
+bruins90210
+•
+6mo ago
+My advice is 1) be grateful you have a job; 2) learn about deploying AI agents. There are countless resources out there from which to learn. I’m finishing a course on creating AI agents from Ed Donner on Udemy and it’s been great; 3) learn the vocabulary of agent development, be clear with your managers, and make progress; and 4) don’t be weak, whiney, or entitled. There are countless people who would love to be in your position.
+
+u/Limebabies avatar
+Limebabies
+•
+6mo ago
+MS | Data Scientist | Tech
+I was in a similar boat in my first data scientist job where I was the solo DS expected to deliver in large projects. My recommendation is to spend a lot of time on requirement gathering, deliver a simple PoC, then iterate.
+
+I stayed at my similar first role for ~2 years. It felt like I was drowning, so I left for a company that had a large data scientist team. Technically, I learned way less at the new role. But I learned a lot about how to present my work and convince stakeholders.
+
+Good luck with whatever decision you end up making!
+
+u/amufhad avatar
+amufhad
+•
+6mo ago
+Hey, in the same boat here. I’m leading AI team and my exp is like yours haha. I have to learn a lot and mostly I scrolled on LinkedIn and adapted from that to real scenarios to your company. It’s burned out. Can dm me if u like to talk. And believe me this experience will be valuable to you for next job as well. I got it on my resume already.
+
+u/flytothefirsttee avatar
+flytothefirsttee
+•
+6mo ago
+man i feel like i just was about to write this same post. seems like a lot of people in our field are dealing with bosses who want to show they are using AI instead of being worried about the product.
+
+Appropriate-Line-319
+•
+6mo ago
+we are in the same boat and the boat is sinking
+
+u/RookFlame4882 avatar
+RookFlame4882
+•
+6mo ago
+Sounds like they don't really know what they want either. As other comments have mentioned, set up a meeting to understand what exactly it is that they need. What's way more important in my experience is also to set expectations in writing and get agreement on done vs perfect. That will protect you from scope creep and help you feel less lost.
+
+Alpha_Romero_1
+•
+6mo ago
+First off all welcome to the corporate wormhole.
+It's actually rpetty normal to get these tasks scpecifically related to AI agents in recent times as a Data Scientist.
+I am a data scientist myself working in the industry for nearly 5 years now.
+In my starting years tasks mainly revolved around data cleaning, dashboarding and some forecasting which was as vanilla as it can get.
+But today even those minor tasks are expected to be done by AI agents from our users because of the AI hype and this stupid need for integrating AI in everything.
+
+Just research the topic and build as basic of an agent as you can. Present it then build up on it. You'll catch the flow in no time.
+
+latent_threader
+•
+1mo ago
+This is a pretty common first job situation right now, especially in smaller teams where one person gets labeled “the AI person” by default. The good news is that agentic and LLM systems lean much more on system design, evaluation, and iteration than on fancy new math, so your ML foundation is still very relevant. I would treat this less as “I need to master a whole new field” and more as “I need to frame experiments and constraints around a messy tool.” Start small, define very narrow use cases, and push back gently on vague expectations by asking what success actually looks like. Also be honest with your manager about what you know and what you are learning, since silent struggle is what gets people into trouble. Feeling out of your depth early usually means you are growing faster than you realize, not that you are failing.
+
+Community Info Section
+r/datascience
+doge
+Joined
+Data Science
+A space for data science professionals to engage in discussions and debates on the subject of data science.
+Created Aug 6, 2011
+Public
+162K
+Data Scientists
+956
+Weekly contributions
+Subreddit News
+Check the Wiki
+How to get user flair
+r/datascience Rules
+1
+Be Respectful and Supportive
+2
+Stay On Topic
+3
+Use the Weekly Thread
+4
+No Video Links
+5
+No Listicles
+6
+No Surveys
+7
+Limit Self-Promotion
+8
+/r/datascience is not stack overflow
+9
+/r/datascience is not a homework helper
+10
+/r/datascience is not a crowd-sourced Google
+11
+Memes are only allowed on Mondays
+Offsite Forums & Resources
+Stack Overflow
+Stack Overflow
+Math Stack Exchange
+Math Stack Exchange
+Cross Validated
+Cross Validated
+Post of the Year
+Top Post this Year
+
+Top Post
+Top Post
+Moderators
+Message Mods
+u/Omega037 avatar
+u/Omega037 
+PhD | Sr Data Scientist Lead | Biotech
+u/patrickSwayzeNU avatar
+u/patrickSwayzeNU 
+MS | Data Scientist | Healthcare
+u/dfphd 
+PhD | Sr. Director of Data Science | Tech
+u/Geckel avatar
+u/Geckel 
+MSc | Data Scientist | Consulting
+Graham Eckel
+u/browneyesays avatar
+u/browneyesays 
+MS | Software Developer, AI | Heathcare Software
+u/AutoModerator avatar
+u/AutoModerator
+u/JaJan1 avatar
+u/JaJan1 
+MEng | Senior DS | Consulting
+u/samjenkins377
+View all moderators
+Reddit Rules
+Privacy Policy
+User Agreement
+Your Privacy Choices
+Accessibility
+Reddit, Inc. © 2026. All rights reserved.
+
+Collapse Navigation
+
+
