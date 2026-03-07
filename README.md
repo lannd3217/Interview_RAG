@@ -1,4 +1,4 @@
-# Interview Intelligence Assistant
+# Job Hunting AI Mentor 
 ## 1. Project Overview
 Aspiring Data Scientists and AI Engineers often struggle with "hidden" technical requirements and cultural nuances of top-tier tech companies. This information is typically scattered across engineering blogs, research papers, and fragmented interview guides.
 
