@@ -121,26 +121,26 @@ Navigating the job market as an early-career professional is challenging. After 
 #### Long-Term Vision
 While the current system leverages publicly available books and forums, the ultimate vision is to scale human mentorship by:
 
-Capturing Meeting Transcripts: Ingest anonymized transcriptions from real mentorship sessions to preserve nuanced advice
+1. Capturing Meeting Transcripts: Ingest anonymized transcriptions from real mentorship sessions to preserve nuanced advice
 
-Collecting Professional Anecdotes: Partner with experienced professionals to contribute their career stories and lessons learned
+2. Collecting Professional Anecdotes: Partner with experienced professionals to contribute their career stories and lessons learned
 
-Personalized Recommendations: Tailor advice based on user background, career stage, and specific goals
+3. Personalized Recommendations: Tailor advice based on user background, career stage, and specific goals
 
-Continuous Updates: Keep the knowledge base current as the DS/AI field rapidly evolves
+4. Continuous Updates: Keep the knowledge base current as the DS/AI field rapidly evolves
 
 #### Impact Statement
 This project aims to democratize access to quality career mentorship by:
 
-Scaling beyond human constraints - 24/7 availability vs. limited mentor hours
+1. Scaling beyond human constraints - 24/7 availability vs. limited mentor hours
 
-Preserving diverse perspectives - Synthesizing insights from multiple mentors and sources
+2. Preserving diverse perspectives - Synthesizing insights from multiple mentors and sources
 
-Removing barriers - Free and accessible to anyone with internet access
+3. Removing barriers - Free and accessible to anyone with internet access
 
-Empowering self-directed learning - On-demand answers without waiting for scheduled meetings
+4. Empowering self-directed learning - On-demand answers without waiting for scheduled meetings
 
-The ultimate goal: No early-career professional should be held back from their dream job due to lack of mentorship access. This AI system doesn't replace human mentors—it amplifies their reach and preserves their wisdom for future generations of job seekers.
+##### The ultimate goal: No early-career professional should be held back from their dream job due to lack of mentorship access. This AI system doesn't replace human mentors—it amplifies their reach and preserves their wisdom for future generations of job seekers.
 
 
 
