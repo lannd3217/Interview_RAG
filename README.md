@@ -88,15 +88,25 @@ Judge LLM: GPT-4o-mini evaluates each metric automatically, outputting scores to
 
 ## IV. Project Structure
 InterviewRAG/
+
 ├── docs/                          # Source documents (PDFs, TXT)
+
 ├── .interview_vector_db/          # Persistent ChromaDB storage
+
 ├── InterviewRAG.ipynb             # Main ingestion pipeline
+
 ├── Retrieval_RAG_v2.ipynb         # Hybrid retrieval implementation
+
 ├── RAG_Evaluation.ipynb           # RAGAS evaluation
+
 ├── RAG_Demo.ipynb                 # Interactive demo
+
 ├── ragas_results.csv              # Evaluation metrics output
+
 ├── ragas_eval_dataset.json        # Pre-computed Q&A pairs
+
 ├── RAG_Architecture.pdf           # System architecture diagram
+
 └── README.md                      # This file
 
 
