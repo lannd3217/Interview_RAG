@@ -43,13 +43,7 @@ The system follows a 7-stage pipeline:
 6. **Generation** → TinyLlama-1.1B-Chat with prompt engineering
 7. **Evaluation** → RAGAS (Faithfulness + ContextPrecision metrics)
 
-### Why Hybrid Retrieval?
 
-The hybrid approach (BM25 40% + Semantic 60%) captures:
-- **Exact keyword matches** for technical terms like "A/B testing" or "cross-validation"
-- **Semantic understanding** for conceptual questions like "When should I use regularization?"
-
-This combination outperforms single-strategy approaches and delivers more relevant context to the LLM.
 
 ## III. Getting Started
 
