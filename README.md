@@ -66,7 +66,7 @@ jupyter notebook RAG_Demo.ipynb
 | Notebook               | Purpose                                      | Key Components                                              |
 | ---------------------- | -------------------------------------------- | ----------------------------------------------------------- |
 | InterviewRAG.ipynb     | Document ingestion and vector store creation | load_docs_from_folder(), clean_text(), ingestion_pipeline() |
-| Retrieval_RAG_v2.ipynb | Hybrid retrieval implementation              | Semantic Retrieval                                          |
+| Retrieval_RAG_v2.ipynb | Retrieval implementation                     | Semantic Retrieval                                          |
 | RAG_Evaluation.ipynb   | RAGAS evaluation with GPT-4o-mini            | Faithfulness and ContextPrecision metrics                   |
 | RAG_Demo.ipynb         | Interactive demo interface                   | ipywidgets dropdown with live questions and answers         |
 
