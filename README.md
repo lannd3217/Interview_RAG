@@ -1,46 +1,147 @@
 # Job Hunting AI Mentor 
-## 1. Project Overview
-Aspiring Data Scientists and AI Engineers often struggle with "hidden" technical requirements and cultural nuances of top-tier tech companies. This information is typically scattered across engineering blogs, research papers, and fragmented interview guides.
 
-The Interview Intelligence Assistant is a Retrieval-Augmented Generation (RAG) system that centralizes these disparate resources. It allows users to query a curated knowledge base of company-specific technical documentation, providing grounded, cited answers to high-stakes interview questions.
+## I. What is Job Hunting AI Mentor?
 
-## 2. Target Audience
-Job Seekers: Early-to-mid-career candidates targeting Data Science, ML Engineering (MLE), or AI Research roles.
+**Job Hunting AI Mentor** is a RAG-powered (Retrieval-Augmented Generation) system that provides on-demand interview preparation and career guidance for early-career Data Science and AI professionals. Unlike generic chatbots, this AI mentor grounds its responses in curated knowledge sources—combining technical fundamentals from authoritative books with real-world experiences from online communities.
+
+### Core Capabilities
+
+- **Technical Interview Prep:** Answer questions about ML algorithms, statistics, A/B testing, and programming concepts
+- **Industry Insights:** Provide context from real job seekers' experiences and advice from DS communities
+- **Source Transparency:** Show which books or forum posts informed each answer
+
+### Current Knowledge Base
+
+The AI mentor currently draws from **9 carefully curated sources**:
+
+**PDF Books:**
+- Machine Learning Interviews (Susan Shu Chang)
+- Cracking the Data Science Interview
+- Statistical Methods for Data Science
+- A/B Testing: A Systematic Literature Review
+- Meta ML Interview Prep (Initial + Onsite)
+- Essential Machine Learning Interview Questions
+- Data Science Analytics Prep Guide
+- Data Science Intern Screening Interview Prep
+
+**Online Forum Compilation:**
+- Reddit_DS_NewGrad.txt: Real candidate experiences, job search stories, and peer advice from the Data Science new grad community
+
+This combination ensures responses are both technically rigorous and grounded in real-world job search realities.
+
+## II. How It Works
+
+### System Architecture
+
+The system follows a 7-stage pipeline:
+
+1. **Document Ingestion** → PyMuPDF + TextLoader with custom cleaning
+2. **Chunking** → RecursiveCharacterTextSplitter (chunk=600, overlap=100)
+3. **Embedding** → all-MiniLM-L6-v2 (384-dimensional vectors)
+4. **Vector Store** → ChromaDB with persistent storage
+5. **Hybrid Retrieval** → EnsembleRetriever combining BM25 + Semantic search
+6. **Generation** → TinyLlama-1.1B-Chat with prompt engineering
+7. **Evaluation** → RAGAS (Faithfulness + ContextPrecision metrics)
+
+### Why Hybrid Retrieval?
+
+The hybrid approach (BM25 40% + Semantic 60%) captures:
+- **Exact keyword matches** for technical terms like "A/B testing" or "cross-validation"
+- **Semantic understanding** for conceptual questions like "When should I use regularization?"
+
+This combination outperforms single-strategy approaches and delivers more relevant context to the LLM.
+
+## III. Getting Started
+
+### Prerequisites
+
+Python 3.8+
+CUDA-capable GPU (recommended for generation)
+8GB+ RAM
+### Setup
+#### 1. Add PDF books and TXT forum files to ./docs folder
+#### 2. Set environment variables
+export OPENAI_API_KEY="your-openai-api-key"  # For RAGAS evaluation only
+#### 3. Run ingestion pipeline and builde vector store
+jupyter notebook InterviewRAG.ipynb
+#### 4. Retrieval and answer generation
+jupyter notebook Retrieval_RAG_v2.ipynb
+#### 5. Demo
+jupyter notebook RAG_Demo.ipynb
+
+| Notebook               | Purpose                                      | Key Components                                              |
+| ---------------------- | -------------------------------------------- | ----------------------------------------------------------- |
+| InterviewRAG.ipynb     | Document ingestion and vector store creation | load_docs_from_folder(), clean_text(), ingestion_pipeline() |
+| Retrieval_RAG_v2.ipynb | Hybrid retrieval implementation              | EnsembleRetriever, semantic + BM25 combination              |
+| RAG_Evaluation.ipynb   | RAGAS evaluation with GPT-4o-mini            | Faithfulness and ContextPrecision metrics                   |
+| RAG_Demo.ipynb         | Interactive demo interface                   | ipywidgets dropdown with pre-computed answers               |
 
 
-## 3. The Hypothesis
-By grounding an LLM in a company-specific technical knowledge base via RAG, we can reduce hallucinations and provide 100% verifiable citations, solving the 'information gap' inherent in general-purpose AI models.
+### Evaluation Framework
+The system uses RAGAS (Retrieval-Augmented Generation Assessment) with two key metrics:
+| Metric           | Description                                     | What It Measures        |
+| ---------------- | ----------------------------------------------- | ----------------------- |
+| Faithfulness     | How grounded the answer is in retrieved context | Prevents hallucinations |
+| ContextPrecision | Relevance of retrieved chunks to the question   | Retrieval quality       |
 
-## 4. Key Features
-Accelerated Research: Instant summaries of engineering blogs and whitepapers.
+Judge LLM: GPT-4o-mini evaluates each metric automatically, outputting scores to ragas_results.csv.
 
-No-Hallucination Guardrails: The system is programmed to say "I don't know" if the information isn't present in the provided documents.
-
-Source Attribution: Every response includes the specific PDF and page number where the information was found.
-
-Recursive Chunking: Advanced text splitting ensures semantic continuity even for complex mathematical formulas and code snippets.
-
-## 5. Technical Stack
-Language: Python 3.10+
-
-Orchestration: LangChain
-
-Document Loading: PyMuPDFLoader (Optimized for speed and accuracy)
-
-Text Splitting: RecursiveCharacterTextSplitter
-
-Embeddings: sentence-transformers/all-MiniLM-L6-v2 (Local and Free)
-
-Vector Store: FAISS (Fast Approximate Nearest Neighbor Search)
+## IV. Project Structure
+InterviewRAG/
+├── docs/                          # Source documents (PDFs, TXT)
+├── .interview_vector_db/          # Persistent ChromaDB storage
+├── InterviewRAG.ipynb             # Main ingestion pipeline
+├── Retrieval_RAG_v2.ipynb         # Hybrid retrieval implementation
+├── RAG_Evaluation.ipynb           # RAGAS evaluation
+├── RAG_Demo.ipynb                 # Interactive demo
+├── ragas_results.csv              # Evaluation metrics output
+├── ragas_eval_dataset.json        # Pre-computed Q&A pairs
+├── RAG_Architecture.pdf           # System architecture diagram
+└── README.md                      # This file
 
 
+## V. Technical Stack
+LangChain - RAG orchestration framework
+
+ChromaDB - Vector database for semantic search
+
+HuggingFace - TinyLlama-1.1B-Chat, all-MiniLM-L6-v2 embeddings
+
+RAGAS - Evaluation framework for RAG systems
+
+PyMuPDF - PDF document parsing
+
+Jupyter - Interactive development and demo
+
+## VI. Future Improvements
+### The Vision: Scaling Mentorship Beyond Availability Constraint
+#### The Problem This Solves
+Navigating the job market as an early-career professional is challenging. After joining mentorship programs, I realized that personalized guidance has nuances that generic advice can't capture. The core bottleneck: Non-profit mentorship programs are limited by mentor availability. Fewer people with common concerns get access to the personalized guidance they need when they need it.
+
+#### Long-Term Vision
+While the current system leverages publicly available books and forums, the ultimate vision is to scale human mentorship by:
+
+Capturing Meeting Transcripts: Ingest anonymized transcriptions from real mentorship sessions to preserve nuanced advice
+
+Collecting Professional Anecdotes: Partner with experienced professionals to contribute their career stories and lessons learned
+
+Personalized Recommendations: Tailor advice based on user background, career stage, and specific goals
+
+Continuous Updates: Keep the knowledge base current as the DS/AI field rapidly evolves
+
+#### Impact Statement
+This project aims to democratize access to quality career mentorship by:
+
+Scaling beyond human constraints - 24/7 availability vs. limited mentor hours
+
+Preserving diverse perspectives - Synthesizing insights from multiple mentors and sources
+
+Removing barriers - Free and accessible to anyone with internet access
+
+Empowering self-directed learning - On-demand answers without waiting for scheduled meetings
+
+The ultimate goal: No early-career professional should be held back from their dream job due to lack of mentorship access. This AI system doesn't replace human mentors—it amplifies their reach and preserves their wisdom for future generations of job seekers.
 
 
-## 6. Future Roadmap
-Multimodal RAG: Support for technical diagrams and architecture charts within PDFs.
-
-Auto-Scraper: Integration with official Engineering Blog APIs (Meta, Netflix, Uber).
-
-Citations UI: A frontend interface highlighting the exact paragraph in the source PDF.
 
 Author: Lan Dinh
