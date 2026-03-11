@@ -39,7 +39,7 @@ The system follows a 7-stage pipeline:
 2. **Chunking** → RecursiveCharacterTextSplitter (chunk=600, overlap=100)
 3. **Embedding** → all-MiniLM-L6-v2 (384-dimensional vectors)
 4. **Vector Store** → ChromaDB with persistent storage
-5. **Hybrid Retrieval** → EnsembleRetriever combining BM25 + Semantic search
+5. **Retrieval** → Semantic search
 6. **Generation** → TinyLlama-1.1B-Chat with prompt engineering
 7. **Evaluation** → RAGAS (Faithfulness + ContextPrecision metrics)
 
